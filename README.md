@@ -1,1 +1,3 @@
 # ruby
+
+gem install "library"
